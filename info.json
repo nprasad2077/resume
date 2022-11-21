@@ -1,0 +1,31 @@
+{
+    "name": "Nikhil Prasad",
+    "website": "https://nprasad2077.github.io/",
+    "linkedin": "https://www.linkedin.com/in/nikhil-prasad-74a08322a",
+    "github": "nprasad2077",
+    "email": "nprasad2077@gmail.com",
+    "resume": "link to resume",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge", 
+        "Halo",
+        "Pokemon", 
+        "Basketball",
+        "Pharmacy", 
+        "Call of Duty"
+    ]
+}
